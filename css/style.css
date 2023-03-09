@@ -57,7 +57,7 @@ body {
 .lista3 {
     font-size: 22px;
 }
-.conocimiento {
+.conocimientos {
     color:blue;
     text-align: center;
 }
@@ -69,7 +69,7 @@ body {
 #contacto{
     font-size: 27px;
     text-align: center;
-    color: rgb(3, 22, 1);
+    color:blue;
 }
 
 #listacontacto{

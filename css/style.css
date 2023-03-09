@@ -2,7 +2,7 @@ body {
     font-family: 'Heebo', sans-serif;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
-    background-color: aquamarine;
+    background-color: skyblue;
 }
 
 .headerPrincipal {
@@ -57,7 +57,7 @@ body {
 .lista3 {
     font-size: 22px;
 }
-.habilidades {
+.conocimiento {
     color:blue;
     text-align: center;
 }
